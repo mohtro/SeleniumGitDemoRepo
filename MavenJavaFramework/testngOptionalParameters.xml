@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="SuiteOptionalParameters">
+	<!--   <parameter name="MyName" value="Automation"></parameter> -->
+	<parameter name="MyName" value="Automation" />
+	<parameter name="ConstructorParam" value="Constructor Param3" />
+	<test thread-count="1" name="TestParameters">
+		<classes>
+			<class name="TestNGtests.TestNGParametersDemo"></class>
+		</classes>
+	</test>
+</suite>

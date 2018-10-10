@@ -1,0 +1,4 @@
+[INFO ] 2018-10-07 11:22:45.057 [main] Log4jDemoClass - logger information message
+[ERROR] 2018-10-07 11:22:45.061 [main] Log4jDemoClass - logger error message
+[WARN ] 2018-10-07 11:22:45.061 [main] Log4jDemoClass - logger warning message
+[FATAL] 2018-10-07 11:22:45.061 [main] Log4jDemoClass - logger fatal message
